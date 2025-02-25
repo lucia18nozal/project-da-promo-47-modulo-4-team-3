@@ -70,6 +70,10 @@ Queremos mostrar los diferentes factores que influyen en la felicidad de los pa�
 │──────── 📜 World-happiness-report-2024.csv
 │──────── 📜 world-happiness-report.csv
 │───── 📜 word_happiness_report_2021_2024.csv
+│── 📂 files/ 
+│───── 📷 6 favors.png 
+│───── 📷 Happiness Logo 2.jpeg
+│───── 📷 World Happiness Logo.jpeg 
 │── 📜 README.md
 │── 📜 world_happiness.ipynb   
 ```
