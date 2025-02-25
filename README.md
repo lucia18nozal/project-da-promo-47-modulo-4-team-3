@@ -7,38 +7,36 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
 
 ## 🎯 Objetivos
 
-- ✔ Explorar y limpiar el dataset obtenido para su análisis.
-- ✔ Crear visualizaciones interactivas en Tableau.
-- ✔ Presentar insights clave mediante storytelling con datos.
-- ✔ Implementar Scrum para el desarrollo del proyecto en equipo.
+✔ Explorar y limpiar el dataset obtenido para su análisis.
+✔ Crear visualizaciones interactivas en Tableau.
+✔ Presentar insights clave mediante storytelling con datos.
+✔ Implementar Scrum para el desarrollo del proyecto en equipo.
 
 
 ## 🛠 Tecnologías y Herramientas
 
-🔹 **Python**: Lenguaje de programación utilizado para desarrollar la lógica.
+🔹 **Python**: Lenguaje de programación utilizado para desarrollar la lógica.  
+    - **Librerías de Python**: *pandas*, *numpy*, *matplotlib*, *seaborn*.  
 
-    - **Librerías de Python**:`pandas`, `numpy`, `matplotlib`, `seaborn`.
+🔹 **Tableau**: Herramienta utilizada para crear dashboards interactivos y visualmente impactantes, permitiendo explorar y comunicar insights clave del *World Happiness Report 2024* de manera efectiva.  
 
-🔹 **Tableau**: Herramienta utilizada para crear dashboards interactivos y visualmente impactantes, permitiendo explorar y comunicar insights clave del '_World Happiness Report 2024_' de manera efectiva.
+🔹 **Jupyter Notebook**: Para análisis exploratorio y visualización.  
 
-🔹 **Jupyter Notebook**: Para análisis exploratorio y visualización.
+🔹 **GitHub**: Para el control de versiones y la colaboración en equipo.  
 
-🔹 **GitHub:** Para el control de versiones y la colaboración en equipo.
+🔹 **Kaggle**: Plataforma utilizada para obtener el dataset *World Happiness Report 2024* y explorar notebooks de referencia.  
+    - [Dataset en Kaggle](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated).
 
-🔹 **Kaggle:** Plataforma utilizada para obtener el dataset '_World Happiness Report 2024_' y explorar notebooks de referencia.
+🔹 **CSV**: Manejo de datos de empleados.  
 
-    - https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated
-
-🔹 **CSV**: Manejo de datos de empleados.
-
-🔹 **Scrum:** Nuestra metodología ágil para mantener el proyecto en marcha.
+🔹 **Scrum**: Nuestra metodología ágil para mantener el proyecto en marcha.  
 
 
 ## 🔍 Fases del Proyecto
 
 1. **Buscar tema y dataset** 🧐
     - Exploración de datasets en Kaggle y otras fuentes analizando el número de datos adecuados para poder trabajar.
-    - Selección del dataset '__World Happiness Report 2024_'.
+    - Selección del dataset '_World Happiness Report 2024_'.
     
 2. **Análisis Exploratorio de Datos (EDA)** 🧐 
    - Identificación de valores nulos, duplicados y datos atípicos.
@@ -86,16 +84,15 @@ Queremos mostrar los diferentes factores que influyen en la felicidad de los pa�
     
     - `git clone https://github.com/lucia18nozal/project-da-promo-47-modulo-4-team-3`
     
+
 2️⃣ Instala las dependencias necesarias:
     
 Con "!" al principio si es desde código y sin ella si es desde terminal.
 
-    - `pip install word2number`
-    - `pip install scikit-learn`
     - `pip install seaborn`
     - `pip install matplotlib`
-    - `pip install scikit-learn`
     
+
 3️⃣ Ejecuta el análisis de datos:
     
 ⚠ **Importante**: Para evitar errores de autenticación, es necesario ejecutar el código a partir de la celda 11. Previamente está indicado con un "EJECUTAR DESDE AQUÍ".
@@ -103,6 +100,7 @@ Con "!" al principio si es desde código y sin ella si es desde terminal.
 La autenticación se ha configurado en un entorno local específico, por lo que las celdas anteriores contienen configuraciones dependientes de dicho entorno. Si intentas ejecutar el código desde el principio en otro equipo, podría fallar debido a la falta de esta configuración previa.
 
 Si necesitas realizar la autenticación en tu propio entorno, contacta con el equipo.
+
 
 4️⃣ Explora los dashboards en Tableau.
 
