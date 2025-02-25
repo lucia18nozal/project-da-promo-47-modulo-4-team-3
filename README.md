@@ -8,28 +8,25 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
 ## 🎯 Objetivos
 
 ✔ Explorar y limpiar el dataset obtenido para su análisis.
+
 ✔ Crear visualizaciones interactivas en Tableau.
+
 ✔ Presentar insights clave mediante storytelling con datos.
+
 ✔ Implementar Scrum para el desarrollo del proyecto en equipo.
 
 
 ## 🛠 Tecnologías y Herramientas
 
-🔹 **Python**: Lenguaje de programación utilizado para desarrollar la lógica.  
+- **Python**: Lenguaje de programación utilizado para desarrollar la lógica.  
     - **Librerías de Python**: *pandas*, *numpy*, *matplotlib*, *seaborn*.  
-
-🔹 **Tableau**: Herramienta utilizada para crear dashboards interactivos y visualmente impactantes, permitiendo explorar y comunicar insights clave del *World Happiness Report 2024* de manera efectiva.  
-
-🔹 **Jupyter Notebook**: Para análisis exploratorio y visualización.  
-
-🔹 **GitHub**: Para el control de versiones y la colaboración en equipo.  
-
-🔹 **Kaggle**: Plataforma utilizada para obtener el dataset *World Happiness Report 2024* y explorar notebooks de referencia.  
+- **Tableau**: Herramienta utilizada para crear dashboards interactivos y visualmente impactantes, permitiendo explorar y comunicar insights clave del *World Happiness Report 2024* de manera efectiva.  
+- **Jupyter Notebook**: Para análisis exploratorio y visualización.  
+- **GitHub**: Para el control de versiones y la colaboración en equipo.  
+- **Kaggle**: Plataforma utilizada para obtener el dataset *World Happiness Report 2024* y explorar notebooks de referencia. 
     - [Dataset en Kaggle](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated).
-
-🔹 **CSV**: Manejo de datos de empleados.  
-
-🔹 **Scrum**: Nuestra metodología ágil para mantener el proyecto en marcha.  
+- **CSV**: Manejo de datos de empleados.  
+- **Scrum**: Nuestra metodología ágil para mantener el proyecto en marcha.  
 
 
 ## 🔍 Fases del Proyecto
