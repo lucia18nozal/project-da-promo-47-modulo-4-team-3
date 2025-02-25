@@ -77,12 +77,12 @@ Queremos mostrar los diferentes factores que influyen en la felicidad de los pa�
 
 ## 📌 Cómo Usar Este Proyecto
 
-1️⃣ Clona el repositorio:
+1️⃣ **Clona el repositorio:**
     
     - `git clone https://github.com/lucia18nozal/project-da-promo-47-modulo-4-team-3`
     
 
-2️⃣ Instala las dependencias necesarias:
+2️⃣ **Instala las dependencias necesarias:**
     
 Con "!" al principio si es desde código y sin ella si es desde terminal.
 
@@ -90,7 +90,7 @@ Con "!" al principio si es desde código y sin ella si es desde terminal.
     - `pip install matplotlib`
     
 
-3️⃣ Ejecuta el análisis de datos:
+3️⃣ **Ejecuta el análisis de datos:**
     
 ⚠ **Importante**: Para evitar errores de autenticación, es necesario ejecutar el código a partir de la celda 11. Previamente está indicado con un "EJECUTAR DESDE AQUÍ".
 
@@ -99,7 +99,7 @@ La autenticación se ha configurado en un entorno local específico, por lo que 
 Si necesitas realizar la autenticación en tu propio entorno, contacta con el equipo.
 
 
-4️⃣ Explora los dashboards en Tableau.
+4️⃣ **Explora los dashboards en Tableau.**
 
 
 ## 📊 Visualización de Datos
