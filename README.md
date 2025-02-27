@@ -4,6 +4,8 @@
 
 Este proyecto tiene como objetivo transformar datos crudos en información útil y visualmente atractiva. Trabajaremos con el dataset '_World Happiness Report 2024_' para analizar los factores que influyen en la felicidad mundial y presentar los hallazgos mediante dashboards en Tableau.
 
+![WHR](images/WHR_Logo_Violet.png)
+
 
 ## 🎯 Objetivos
 
@@ -70,10 +72,18 @@ Queremos mostrar los diferentes factores que influyen en la felicidad de los pa�
 │──────── 📜 World-happiness-report-2024.csv
 │──────── 📜 world-happiness-report.csv
 │───── 📜 word_happiness_report_2021_2024.csv
-│── 📂 files/ 
-│───── 📷 6 favors.png 
-│───── 📷 Happiness Logo 2.jpeg
-│───── 📷 World Happiness Logo.jpeg 
+│── 📂 images/ 
+│───── 📷 6_favors.png 
+│───── 📷 Freedom_to_Make_Life_Choices.jpg
+│───── 📷 GDP_Per_Capita.jpg
+│───── 📷 Generosiy.jpg
+│───── 📷 Healthy_Life_Expectancy.jpg
+│───── 📷 Perceptions_of_Corruption.jpg
+│───── 📷 Social_Support.jpg
+│───── 📷 WHR_Logo_Fucxia.jpeg
+│───── 📷 WHR_Logo_Orange.png
+│───── 📷 WHR_Logo_Violet.png
+│───── 📷 WHR_Logo.jpeg
 │── 📜 README.md
 │── 📜 world_happiness.ipynb   
 ```
