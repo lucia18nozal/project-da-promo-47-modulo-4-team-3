@@ -4,7 +4,7 @@
 
 Este proyecto tiene como objetivo transformar datos crudos en información útil y visualmente atractiva. Trabajaremos con el dataset '_World Happiness Report 2024_' para analizar los factores que influyen en la felicidad mundial y presentar los hallazgos mediante dashboards en Tableau.
 
-![WHR](images/WHR_Logo_Horizontal.png)
+![WHR](images/WHR_Logo_Puntitos.png)
 
 
 ## 🎯 Objetivos
