@@ -50,9 +50,6 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
    - Comparaciones de felicidad entre países.  
 
 
-##
-
-Queremos mostrar los diferentes factores que influyen en la felicidad de los países, como .....
 
 ## 🏗️ Estructura del Repositorio
 
@@ -71,26 +68,14 @@ Queremos mostrar los diferentes factores que influyen en la felicidad de los pa�
 │──────── 📜 World-happiness-report-2024.csv
 │──────── 📜 World-happiness-report-2024.csv
 │──────── 📜 world-happiness-report.csv
+│───── 📜 correlaciones.csv
 │───── 📜 word_happiness_report_2021_2024.csv
 │── 📂 images/ 
-│───── 📷 6_favors.png 
-│───── 📷 Freedom_to_Make_Life_Choices.jpg
-│───── 📷 GDP_Per_Capita.jpg
-│───── 📷 Generosiy.jpg
-│───── 📷 Healthy_Life_Expectancy.jpg
-│───── 📷 Mapa_Caras.jpg
-│───── 📷 Perceptions_of_Corruption.jpg
-│───── 📷 Social_Support.jpg
 │───── 📷 WHR_Caras.png
-│───── 📷 WHR_Colores_Fondo.jpg
-│───── 📷 WHR_Logo_Colores.jpeg
-│───── 📷 WHR_Logo_Fucxia.jpeg
 │───── 📷 WHR_Logo_Horizontal.png
-│───── 📷 WHR_Logo_Orange.png
 │───── 📷 WHR_Logo_Puntitos.png
-│───── 📷 WHR_Logo_Violet.png
-│───── 📷 WHR_Logo.jpeg
 │───── 📷 WHR_Logo_Fondo.png
+│── 📜 Proyecto Happiness Paola, Lucia, Katie.twbx
 │── 📜 README.md
 │── 📜 world_happiness.ipynb   
 ```
@@ -121,6 +106,8 @@ Si necesitas realizar la autenticación en tu propio entorno, contacta con el eq
 
 
 4️⃣ **Explora los dashboards en Tableau.**
+
+    - `https://public.tableau.com/views/ProyectoHappinessPaolaLuciaKatie28_02/Rankings?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
 
 ## 📊 Visualización de Datos
