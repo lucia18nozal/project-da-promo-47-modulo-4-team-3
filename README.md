@@ -1,8 +1,8 @@
-# 📊 Data Insights: Visualización del '_World Happiness Report 2024_'
+# 📊 Data Insights: Visualización del '_World Happiness Report 2021/2024_'
 
 ## 📖 Descripción del Proyecto
 
-Este proyecto tiene como objetivo transformar datos crudos en información útil y visualmente atractiva. Trabajaremos con el dataset '_World Happiness Report 2024_' para analizar los factores que influyen en la felicidad mundial y presentar los hallazgos mediante dashboards en Tableau.
+Este proyecto tiene como objetivo transformar datos crudos en información útil y visualmente atractiva. Trabajaremos con el dataset '_World Happiness Report 2021/2024_' para analizar los factores que influyen en la felicidad mundial y presentar los hallazgos mediante dashboards en Tableau.
 
 ![WHR](images/WHR_Logo_Puntitos.png)
 
@@ -22,11 +22,12 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
 
 - **Python**: Lenguaje de programación utilizado para desarrollar la lógica.  
     - **Librerías de Python**: *pandas*, *numpy*, *matplotlib*, *seaborn*.  
-- **Tableau**: Herramienta utilizada para crear dashboards interactivos y visualmente impactantes, permitiendo explorar y comunicar insights clave del *World Happiness Report 2024* de manera efectiva.  
+- **Tableau**: Herramienta utilizada para crear dashboards interactivos y visualmente impactantes, permitiendo explorar y comunicar insights clave del *World Happiness Report 2021/2024* de manera efectiva.  
 - **Jupyter Notebook**: Para análisis exploratorio y visualización.  
 - **GitHub**: Para el control de versiones y la colaboración en equipo.  
-- **Kaggle**: Plataforma utilizada para obtener el dataset *World Happiness Report 2024* y explorar notebooks de referencia. 
+- **Kaggle**: Plataforma utilizada para obtener el dataset *World Happiness Report 2021/2024* y explorar notebooks de referencia. 
     - [Dataset en Kaggle](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated).
+    - [Dataset en Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021).
 - **CSV**: Manejo de datos de empleados.  
 - **Scrum**: Nuestra metodología ágil para mantener el proyecto en marcha.  
 
@@ -35,7 +36,7 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
 
 1. **Buscar tema y dataset** 🧐
     - Exploración de datasets en Kaggle y otras fuentes analizando el número de datos adecuados para poder trabajar.
-    - Selección del dataset '_World Happiness Report 2024_'.
+    - Selección del dataset '_World Happiness Report 2021/2024_'.
     
 2. **Análisis Exploratorio de Datos (EDA)** 🧐 
    - Identificación de valores nulos, duplicados y datos atípicos.
