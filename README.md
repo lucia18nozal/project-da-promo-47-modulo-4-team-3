@@ -26,8 +26,8 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
 - **Jupyter Notebook**: Para análisis exploratorio y visualización.  
 - **GitHub**: Para el control de versiones y la colaboración en equipo.  
 - **Kaggle**: Plataforma utilizada para obtener el dataset *World Happiness Report 2021/2024* y explorar notebooks de referencia. 
-    - [Dataset en Kaggle](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated).
-    - [Dataset en Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021).
+    - [Dataset en Kaggle 2021](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021).
+    - [Dataset en Kaggle 2024](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated).
 - **CSV**: Manejo de datos de empleados.  
 - **Scrum**: Nuestra metodología ágil para mantener el proyecto en marcha.  
 
